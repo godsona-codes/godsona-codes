@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Godson
 
-<!--
-**godsona-codes/godsona-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS and African & Afro-American Studies double major at Brandeis (Class of 2027). I build full-stack web apps, and I'm working toward a career in software engineering and cloud engineering, primarily on AWS and other cloud services.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ENACT](https://github.com/godsona-codes/ENACT)**: web platform for a national civic engagement program (React, Express, MongoDB, Node)
+- **[Prayer app](https://github.com/godsona-codes/final-project)**: full-stack app with an AI-assisted backend
+- **[Secure Password Manager](https://github.com/godsona-codes/secure-password-manager)**: encrypted desktop app in Python
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/godsonademolathomas/)
